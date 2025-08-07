@@ -7,6 +7,11 @@ Um aplicativo onde a loja pode gerenciar todo o seu estebelecimento, os produtos
 - Linguagem de programação: Kotlin
 
 
+
+## Diagrama de classes
+<img src="./gerenciador_de_loja_class_diagram.png" alt="Gerenciador de loja Class Diagram"/>
+
+
 ## Requisitos funcionais
 
 - O usuário precisa se autenticar no app via login ou cadastro.
