@@ -1,6 +1,6 @@
 # Gerenciador de loja (Android app MVVM)
 
-Um aplicativo onde a loja pode gerenciar todo o seu estebelecimento, os produtos, promoções e etc.
+Um aplicativo onde a loja pode gerenciar todo o seu estebelecimento, os produtos e etc.
 
 ## Ferramentas
 - IDE: Android Studio
