@@ -16,11 +16,6 @@ Um aplicativo onde a loja pode gerenciar todo o seu estebelecimento, os produtos
 - O usuário pode deletar produtos da loja.
 - O usuáro pode buscar produtos pelo nome, data de criação e categoria.
 - O usuário pode aplicar descontos de produtos selecionados ou pela categoria do produto.
-- O usuário pode cadastrar funcionarios.
-- O usuário pode alterar os dados dos funcionários.
-- O usuário pode cadastrar cargos.
-- O usuário pode atualizar os cargos.
-- O usuário pode aumentar o salário dos funcionário que tenham um cargo específico.
 
 
 ## Requisitos não funcionais
