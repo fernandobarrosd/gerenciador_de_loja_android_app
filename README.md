@@ -1,0 +1,1 @@
+# gerenciador_de_loja_android_app
